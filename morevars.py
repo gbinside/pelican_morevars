@@ -18,6 +18,11 @@ put into your template some lines
     {{ morevars_debug }}
     </pre>
 
+you also have
+
+    {{ article.morevars_debug }}
+
+and so on.
 """
 
 from pelican import signals
