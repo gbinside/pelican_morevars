@@ -1,9 +1,9 @@
 Morevars plugin for Pelican
 ===========================
 
-This plugin add variables to all context (Common variables) for debug purpose
+This plugin add variables to all context (Common variables) for debug purpose.
 
-remeber to keep this plugin as last of the pluginlist in your pelican config file
+Remeber to keep this plugin as last of the pluginlist in your pelican config file
 
     PLUGINS = [
     ...
